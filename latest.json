@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "1.0.8.8",
-  "apkUrl": "https://github.com/Clenlab/botfit-dist/releases/download/v1.0.8.8/BotFitCore-1.0.8.8-release.apk",
-  "notes": "자동 빌드 릴리스 1.0.8.8",
+  "versionCode": 18,
+  "versionName": "1.0.8.9",
+  "apkUrl": "https://github.com/Clenlab/botfit-dist/releases/download/v1.0.8.9/BotFitCore-1.0.8.9-release.apk",
+  "notes": "자동 빌드 릴리스 1.0.8.9",
   "mandatory": false
 }
